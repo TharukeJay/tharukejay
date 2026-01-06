@@ -1,7 +1,7 @@
 # 🌟 Tharuke Jayawardhane - Senior Software Engineer & Full-Stack Specialist
 
 <h1 align="center">Hi 👋, I'm Tharuke Jayawardhane</h1>
-<h3 align="center">A senior-level <strong>Software Engineer</strong> 🇱🇰 specializing in building scalable enterprise applications, high-performance backends, and clean, maintainable full-stack systems.</h3>
+<h3 align="center">A senior-level <strong>Software Engineer</strong> specializing in building scalable enterprise applications, high-performance backends, and clean, maintainable full-stack systems.</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=TharukeJay&label=VISITS&color=30A3DC&style=for-the-badge" alt="TharukeJay views" />
